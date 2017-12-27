@@ -1145,7 +1145,7 @@
     </string>
 
     <!-- Setting title for the shake action setting. -->
-    <string name="shake_action_title">Shake action</string>
+    <string name="shake_action_title">Встряхивание</string>
 
     <!-- Setting summary for the shake action setting. -->
     <string name="shake_action_summary" product="default">Shaking the phone will
